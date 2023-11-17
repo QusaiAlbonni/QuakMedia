@@ -1,0 +1,1 @@
+<img src="quaklogo.png" class="w-62 h-23 fill-current text-gray-500" style="width: 250px; height: 95px"/>
